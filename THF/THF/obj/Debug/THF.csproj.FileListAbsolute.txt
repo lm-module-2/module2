@@ -1,0 +1,15 @@
+C:\Users\Lorin Chèvre\source\repos\THF\THF\bin\Debug\THF.dll
+C:\Users\Lorin Chèvre\source\repos\THF\THF\bin\Debug\THF.pdb
+C:\Users\Lorin Chèvre\source\repos\THF\THF\bin\Debug\THF.dll.manifest
+C:\Users\Lorin Chèvre\source\repos\THF\THF\bin\Debug\THF.vsto
+C:\Users\Lorin Chèvre\source\repos\THF\THF\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Lorin Chèvre\source\repos\THF\THF\obj\Debug\THF.csprojAssemblyReference.cache
+C:\Users\Lorin Chèvre\source\repos\THF\THF\obj\Debug\THF.Properties.Resources.resources
+C:\Users\Lorin Chèvre\source\repos\THF\THF\obj\Debug\THF.csproj.GenerateResource.cache
+C:\Users\Lorin Chèvre\source\repos\THF\THF\obj\Debug\THF.csproj.CoreCompileInputs.cache
+C:\Users\Lorin Chèvre\source\repos\THF\THF\obj\Debug\THF.csproj.CopyComplete
+C:\Users\Lorin Chèvre\source\repos\THF\THF\obj\Debug\THF.dll
+C:\Users\Lorin Chèvre\source\repos\THF\THF\obj\Debug\THF.pdb
+C:\Users\Lorin Chèvre\source\repos\THF\THF\obj\Debug\THF.THF.resources
+C:\Users\Lorin Chèvre\source\repos\THF\THF\obj\Debug\THF.SelectEvent.resources
+C:\Users\Lorin Chèvre\source\repos\THF\THF\obj\Debug\THF.ManageEvent.resources
