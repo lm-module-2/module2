@@ -8,13 +8,18 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace THF
+namespace M2_Flexibilite_Chariot
 {
-    public partial class ManageEvent : Form
+    public partial class Form1 : Form
     {
-        public ManageEvent()
+        public Form1()
         {
             InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
