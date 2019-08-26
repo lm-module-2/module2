@@ -2,7 +2,7 @@
  * Projet       : Module 2 - Gestion flexible Chariot
  * Version      : 1.0
  * 
- * Auteur       : Lorin Chèvre
+ * Auteur       : Lorin Chèvre & Michael Rollat
  * 
  * Description  : Classe permettant de gérer les requêtes SQL et les connexions à la base de données.
  * 
@@ -20,9 +20,6 @@ namespace M2_Flexibilite_Chariot
 {
     class db
     {
-        public bool EstConnecté()
-        {
 
-        }
     }
 }

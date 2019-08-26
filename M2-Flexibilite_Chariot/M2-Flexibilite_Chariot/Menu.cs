@@ -1,4 +1,14 @@
-﻿using System;
+﻿/*
+ * Projet       : Module 2 - Gestion flexible Chariot
+ * Version      : 1.0
+ * 
+ * Auteur       : Lorin Chèvre & Micheal Rollat
+ * 
+ * Description  : Menu principal de l'application.
+ * 
+ */
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -10,9 +20,9 @@ using System.Windows.Forms;
 
 namespace M2_Flexibilite_Chariot
 {
-    public partial class Form1 : Form
+    public partial class Menu : Form
     {
-        public Form1()
+        public Menu()
         {
             InitializeComponent();
         }
